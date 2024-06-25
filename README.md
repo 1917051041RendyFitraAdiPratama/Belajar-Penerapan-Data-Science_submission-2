@@ -33,11 +33,11 @@ Apabila menginstal Python melalui Anaconda ataupun miniconda, Anda dapat menggun
 1. Buka terminal atau PowerShell.
 2. Jalankan perintah berikut.
     ```
-     conda create --name prediksi_attrition python=3.9
+     conda create --name prediksi_dropout python=3.9
     ```
 3. Aktifkan virtual environment dengan menjalankan perintah berikut.
     ```
-    conda activate prediksi_attrition
+    conda activate prediksi_dropout
     ```
 4. Instal semua library yang dibutuhkan menggunakan perintah berikut.
     ```
