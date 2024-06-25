@@ -51,7 +51,7 @@ Apabila menginstal Python melalui Anaconda ataupun miniconda, Anda dapat menggun
 7. Masukkan data yang ingin diprediksi pada variabel X_new
 8. Tekan tombol run code
 9. Hasil prediksi akan keluar
-10. Bisa juga dengan mengakses link streamlit ini: 
+10. Bisa juga dengan mengakses link streamlit ini: https://belajar-penerapan-data-science-submission-2.streamlit.app/
 
 ## Business Dashboard
 Dashboard bisnis dibuat untuk memvisualisasikan data karyawan, tingkat keluarnya karyawan, dan faktor-faktor yang mempengaruhi tingginya attrition rate. Dashboard ini akan menampilkan faktor demografis dan penghasilan, faktor pekerjaan dan kepuasan, faktor
