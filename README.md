@@ -64,7 +64,7 @@ Melalui dashboard ini, diharapkan Jaya Jaya Institut dapat mengambil tindakan pr
 Dropout mahasiswa di Jaya Jaya Institut dipengaruhi oleh berbagai faktor yang dapat dikelompokkan ke dalam demografis mahasiswa, latar belakang pendidikan, keadaan ekonomi, keluarga dan latar belakang sosial, serta prestasi akademik. Mahasiswa yang lebih tua saat age at enrollment, berasal dari kategori "over 23 years old" atau "transfer" dalam application mode, mengambil mata kuliah manajemen pada malam hari atau teknik informatika, memiliki nilai admission grade yang rendah, dan tidak mendapatkan beasiswa cenderung lebih berisiko untuk dropout. Selain itu, mahasiswa dengan latar belakang keluarga yang kurang mendukung, terutama yang ibu dan ayahnya memiliki kualifikasi pendidikan yang tidak diketahui, juga menunjukkan kecenderungan dropout yang lebih tinggi. Mahasiswa yang dropout umumnya memiliki prestasi akademik yang lebih rendah
 
 ### Rekomendasi Action Items
-Berikut adalah rekomendasi yang dapat dilakukan perusahaan Jaya Jaya Maju untuk mengurangi tingkat attrition:
+Berikut adalah rekomendasi yang dapat dilakukan Jaya Jaya Institut untuk mengurangi tingkat dropout:
 
 1. Tawarkan bimbingan belajar tambahan dan dukungan akademik bagi mahasiswa yang mengambil mata kuliah manajemen malam hari dan teknik informatika, karena mereka memiliki tingkat dropout yang tinggi.
 
